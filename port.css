@@ -1204,4 +1204,13 @@ fieldset{
       justify-content: space-around;
   }
 
+  .link{
+    margin-top: 10px;
+    font-size: 20px;
+    margin-left: 10px;
+  }
  
+  .link2{
+    display: flex;
+    flex-flow: column;
+  }
